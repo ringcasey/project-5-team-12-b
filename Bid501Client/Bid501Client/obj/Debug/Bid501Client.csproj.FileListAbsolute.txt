@@ -1,0 +1,5 @@
+C:\Users\Casey Ring\source\repos\project-5-team-12-b\Bid501Client\Bid501Client\obj\Debug\Bid501Client.csproj.AssemblyReference.cache
+C:\Users\Casey Ring\source\repos\project-5-team-12-b\Bid501Client\Bid501Client\obj\Debug\Bid501Client.Bid501Form.resources
+C:\Users\Casey Ring\source\repos\project-5-team-12-b\Bid501Client\Bid501Client\obj\Debug\Bid501Client.Properties.Resources.resources
+C:\Users\Casey Ring\source\repos\project-5-team-12-b\Bid501Client\Bid501Client\obj\Debug\Bid501Client.csproj.GenerateResource.cache
+C:\Users\Casey Ring\source\repos\project-5-team-12-b\Bid501Client\Bid501Client\obj\Debug\Bid501Client.csproj.CoreCompileInputs.cache
